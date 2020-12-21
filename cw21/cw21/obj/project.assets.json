@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw11\\cw11\\cw11.csproj",
-      "projectName": "cw11",
-      "projectPath": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw11\\cw11\\cw11.csproj",
+      "projectUniqueName": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw21\\cw21\\cw21.csproj",
+      "projectName": "cw21",
+      "projectPath": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw21\\cw21\\cw21.csproj",
       "packagesPath": "C:\\Users\\aziz-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw11\\cw11\\obj\\",
+      "outputPath": "C:\\Users\\aziz-\\Desktop\\Lecture 1\\gamedev-cw-1\\cw21\\cw21\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aziz-\\AppData\\Roaming\\NuGet\\NuGet.Config",
